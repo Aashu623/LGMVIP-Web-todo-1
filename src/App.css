@@ -13,6 +13,7 @@
 
 }
 .input-container {
+    width: 359px;
     background-color: white;
     display: flex;
     justify-content: center;
